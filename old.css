@@ -1,0 +1,13 @@
+body{
+  background-image: url("images/old-music-player.jpg");
+  background-repeat:no repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  width:500px;
+  height:500px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 100px 500px 600px 500px;
+  position: fixed;  
+}
